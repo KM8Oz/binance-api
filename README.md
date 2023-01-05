@@ -11,6 +11,13 @@ REST requests are caching (60m).
 | [user-data-stream](https://github.com/binance-exchange/binance-official-api-docs/blob/master/user-data-stream.md) | Details on the dedicated account stream  |
 | [errors](https://github.com/binance-exchange/binance-official-api-docs/blob/master/errors.md) | Descriptions of possible error messages from the Rest API  |
 
+## install:
+  ```
+  npm i https://github.com/KM8Oz/binance-api.git 
+  pnpm i https://github.com/KM8Oz/binance-api.git 
+  yarn add https://github.com/KM8Oz/binance-api.git 
+  ```
+
 ## Menu
 
 - [Binance API](#binance-api)

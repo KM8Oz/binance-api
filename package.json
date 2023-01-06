@@ -34,7 +34,8 @@
   "dependencies": {
     "axios": "0.19.2",
     "axios-cache-adapter": "2.5.0",
-    "ws": "7.2.1"
+    "ws": "7.2.1",
+    "crypto-browserify":"*"
   },
   "devDependencies": {
     "nodemon": "2.0.3"

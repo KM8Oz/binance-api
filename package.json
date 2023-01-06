@@ -7,12 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/marcius-capital/binance-api.git"
   },
-  "scripts": {
-    "dev": "nodemon test.js"
-  },
   "keywords": [
-    "node",
-    "nodejs",
     "javascript",
     "binance",
     "binance-api",
@@ -35,10 +30,8 @@
     "axios": "1.2.0",
     "axios-cache-adapter": "2.5.0",
     "ws": "8.11.0",
-    "crypto-browserify":"*"
-  },
-  "devDependencies": {
-    "nodemon": "2.0.3"
+    "crypto-browserify":"*",
+    "stream-browserify":"*"
   },
   "publishConfig": {
     "access": "public"
